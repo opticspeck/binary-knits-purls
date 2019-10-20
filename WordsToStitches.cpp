@@ -1,6 +1,6 @@
 /***********************************************************
 * WordsToStitches.cpp
-* Olivia Mark
+* Mel Mark
 *
 * This program compares takes a literal string and
 * converts it to binary before converting to knits/purls.
